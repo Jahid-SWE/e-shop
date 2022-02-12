@@ -7,11 +7,7 @@
     <title>Category Page</title>
 </head>
 <body>
-<<<<<<< HEAD
-    <input type="text" value="button">
-=======
-<p> I live in bangladesh</p>
-    
->>>>>>> 09bec89fcd4bc0b39ecc3f88839356062ae6e56c
+    <h1>I love my parents</h1>
+    <h1>I like salat</h1>
 </body>
 </html>
