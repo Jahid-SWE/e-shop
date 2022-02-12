@@ -7,20 +7,6 @@
     <title>Category Page</title>
 </head>
 <body>
-    <h1>This is a Category page </h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis 
-    aperiam aliquid facere sequi omnis corporis vitae error. Veritatis 
-    cumque voluptate cum ratione delectus aut, provident tenetur dolor 
-    tempore praesentium reprehenderit. cum ratione delectus aut, provident 
-    tenetur dolor tempore praesentium reprehenderit. cum ratione delectus aut, 
-    provident tenetur dolor tempore praesentium reprehenderit. cum ratione delectus 
-    aut, provident tenetur dolor tempore praesentium reprehenderit. cum ratione 
-    delectus aut, provident tenetur dolor tempore praesentium reprehenderit. cum 
-    ratione delectus aut, provident tenetur dolor tempore praesentium reprehenderit. 
-    cum ratione delectus aut, provident tenetur dolor tempore praesentium reprehenderit. 
-    cum ratione delectus aut, provident tenetur dolor tempore praesentium reprehenderit.
-</p>
-<p>i love bangladesh to achive the goal</p>
-<p>I love my mothe very much</p>
+    
 </body>
 </html>
