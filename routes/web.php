@@ -2,6 +2,7 @@
 
 use Illuminate\Routing\Route as RoutingRoute;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\FirstController;
 use PhpParser\Builder\Function_;
 
 /*
@@ -19,12 +20,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/dashboard', function (){
-    return view('dashboard',[
-        'name'=>'jahid Hassan',
-        'contact_number'=>'+880 01518398423',
-        'address'=>'sukrabad',
-        'age'=>'23',
-        'division'=>'Dhaka'
-]);
-});
+// Route::get('/dashboard', function (){
+//     return view('dashboard',[
+//         'name'=>'jahid Hassan',
+//         'contact_number'=>'+880 01518398423',
+//         'address'=>'sukrabad',
+//         'age'=>'23',
+//         'division'=>'Dhaka'
+// ]);
+// });
+Route::get('/dashboard',[FirstController::class,'index'])->name('dashboard');
+Route::get('/about',[FirstController::class,'about'])->name('about');
