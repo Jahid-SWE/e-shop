@@ -7,6 +7,6 @@
     <title>Category Page</title>
 </head>
 <body>
-    
+    <input type="text" value="button">
 </body>
 </html>
