@@ -7,6 +7,7 @@
     <title>Category Page</title>
 </head>
 <body>
+<p> I live in bangladesh</p>
     
 </body>
 </html>
